@@ -9,6 +9,9 @@ instalando o django
     pip install django
 startando o django
     django-admin startproject projetoFacul . 
+
+python manage.py startapp contact
+
 ```
 
 configurando o git
@@ -22,4 +25,5 @@ git config --global init.defaultBranch main
 git init
 git add .
 git commit -m 'Mensagem'
+git remote add origin URL_DO_GIT
 ```
