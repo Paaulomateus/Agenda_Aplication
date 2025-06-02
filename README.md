@@ -21,7 +21,6 @@
   
   ## 🧑‍💻 Participantes
   
-    - Larissa Novais Sarmento;
     - Luan Henrique da Costa Alves;
     - Mathews Vinicius de Oliveira;
     - Paulo Mateus Farias Carreiro.
