@@ -33,6 +33,7 @@ Migrando a base de dados do Django
 toda vez que alterar o model usa o makemigrations
 ```
 python manage.py makemigrations
+python manage.py runserver
 python manage.py migrate
 ```
 
